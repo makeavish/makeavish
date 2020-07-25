@@ -14,7 +14,7 @@ I'm Vishal Sharma, final year undergraduate student. I am passionate about techn
 - Warm blooded animal 
 - 1xEngineer :stuck_out_tongue: 
 - Podcast🎙 lover 
-- :book: lover
+- Non-fiction :book: lover ([Goodreads](https://www.goodreads.com/makeavish))
 
 Check out my [portfolio](https://cv.vishalsharma.dev/)
 
