@@ -13,6 +13,7 @@ I'm Vishal Sharma, final year undergraduate student. I am passionate about techn
 ### Features
 - Warm blooded animal 
 - 1xEngineer :stuck_out_tongue: 
+- Karma Yogi 👨‍💻
 - Podcast🎙 lover 
 - Non-fiction :book: lover ([Goodreads](https://www.goodreads.com/makeavish))
 
