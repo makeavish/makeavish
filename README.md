@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm Vishal Sharma, final year undergraduate student. I am passionate about technologies and open source. I am a ML/Backend Developer. 
+I'm Vishal Sharma, final year undergraduate student. I am passionate about software technologies and open source. I am a ML/Backend Developer. Currently working as software engineer intern @ [OkCredit](https://okcredit.in/).
 
 ### Features
 - Warm blooded animal 
