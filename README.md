@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/makeavish/makeavish/master/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/makeavish/makeavish/master/go.png" alt="Hello world">
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=makeavish&&style=flat-square"/>
@@ -8,7 +8,8 @@
 
 ## About me
 
-I'm Vishal Sharma, final year undergraduate student. I am passionate about software technologies and open source. I am a ML/Backend Developer. Currently working as software engineer intern @ [OkCredit](https://okcredit.in/).
+I'm Vishal Sharma, final year undergraduate student. I am passionate about software technologies and open source. I am a ML/Backend Developer. 
+Currently working as SDE intern @ [OkCredit](https://okcredit.in/).
 
 ### Features
 - Warm blooded animal 
