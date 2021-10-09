@@ -8,8 +8,8 @@
 
 ## About me
 
-I'm Vishal Sharma, final year undergraduate student. I am passionate about software technologies and open source. I am a ML/Backend Developer. 
-Currently working as SDE intern @ [OkCredit](https://okcredit.in/).
+I'm Vishal Sharma, passionate about software technologies and open source. I am a Backend Developer. 
+Currently working as Software Engineer(Backend) @ [OkCredit](https://okcredit.in/).
 
 ### Features
 - Warm blooded animal 
@@ -22,7 +22,7 @@ Check out my [portfolio](https://cv.vishalsharma.dev/)
 
 ## Things I am passionate about
 
-- Machine Learning :robot:
+- Systems Design :robot:
 - DevOps 🏗
 - Problem Solving 🧐
 - Open source :octocat:
