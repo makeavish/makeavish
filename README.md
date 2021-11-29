@@ -9,7 +9,7 @@
 ## About me
 
 I'm Vishal Sharma, passionate about software technologies and open source. I am a Backend Developer. 
-Currently working as Software Engineer(Backend) @ [OkCredit](https://okcredit.in/).
+Currently working as Software Engineer @ [SigNoz](https://signoz.io/).
 
 ### Features
 - Warm blooded animal 
