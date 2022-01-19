@@ -8,8 +8,10 @@
 
 ## About me
 
-I'm Vishal Sharma, passionate about software technologies and open source. I am a Backend Developer. 
-Currently working as Software Engineer @ [SigNoz](https://signoz.io/).
+I'm Vishal Sharma, passionate about software technologies and open source. 
+
+I am a Backend Developer. 
+Currently building an Opensource APM for observability and monitoring - [SigNoz](https://signoz.io/).
 
 ### Features
 - Warm blooded animal 
