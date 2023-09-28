@@ -20,8 +20,6 @@ Currently building an Opensource APM for observability and monitoring - [SigNoz]
 - Podcast🎙 lover 
 - Non-fiction :book: lover ([Goodreads](https://www.goodreads.com/makeavish))
 
-Check out my [portfolio](https://cv.vishalsharma.dev/)
-
 ## Things I am passionate about
 
 - Systems Design :robot:
@@ -32,7 +30,6 @@ Check out my [portfolio](https://cv.vishalsharma.dev/)
 ## Get in touch :coffee:
 
 - Your future buddy to discuss tech related things and creative project ideas on [Twitter](https://twitter.com/makeavish11).
-- Your future life savior :stuck_out_tongue: on my [Blog](https://vishalsharma.dev/).
 - Your future employee/co-worker on [LinkedIn](https://www.linkedin.com/in/makeavish)
 - And of course GitHub you're already on (Recursion).
 
