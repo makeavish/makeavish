@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=makeavish&&style=flat-square"/>
 </p>
 
-**TL;DR:** Scaling SigNoz (YC W21) from $1→$10 — obsessed with activation, PLG loops, and making OpenTelemetry approachable.
+**TL;DR:** Scaling SigNoz (YC W21) from $1 \to 10$ — obsessed with activation, PLG loops, and making OpenTelemetry approachable.
       
 ## ⚙️ $whoami
 
@@ -19,12 +19,6 @@ Currently scaling **SigNoz** (YC W21) from $1 \to 10$.
 * **Day Job:** obsessing over activation rates, PLG loops, and making OpenTelemetry less scary for the average dev.
 * **Past Life:** I was the first backend engineer at SigNoz. I optimized Trace DB performance by **40x** and page loads by **3x** because slow dashboards hurt my soul.
 * **Before that:** Wrangled services at **OkCredit** handling **500k+ RPM**. I like systems that don't crash under pressure.
-
-## 🛠️ Stuff I actually use (not buzzword bingo)
-
-* **Languages:** Go · Python · Java · Ruby · JavaScript · C/C++
-* **Databases & Infrastructure:** ClickHouse · Kubernetes · Docker · Postgres · Redis · OTEL
-* **Product stuff:** Mixpanel • Segment • Metabase • Customer.io
 
 ## 🏆 Humble Brags
 
