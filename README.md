@@ -26,28 +26,21 @@ Currently scaling **SigNoz** (YC W21) from $1 \to 10$.
 * **Databases & Infrastructure:** ClickHouse · Kubernetes · Docker · Postgres · Redis · OTEL
 * **Product stuff:** Mixpanel • Segment • Metabase • Customer.io
 
-## 🏆 Humble Brags (The "Trust Me, I Can Code" Section)
+## 🏆 Humble Brags
 
 * Ranked 179 nationally in ICPC (out of 4441, so top 4%ish)
 * Top 100 in HackWithInfy among 180k+ participants
 * Won 2 hackathons at my previous company before they asked me to chill
-* Solved 1000+ LeetCode-style problems (because apparently I enjoy pain)
 
-## ⚡ Offline Mode
+## ⚡ Offline Mode (a.k.a. what lives rent-free in my head)
 When I'm not staring at monitors, I am:
 * Trying to reconcile **Vedanta** with **Stoicism**.
 * Reading things that make me question my own opinions
-* Being a **Minimalist** and an avid planner.
 * Playing **Chess** (badly, but enthusiastically).
-* Searching for the best vegetarian food in town.
-
-## 💭 What I think about
-
-* Making complex systems simple
-* 0→1 products
-* Why users churn
-* Observability (it's my day job)
-* How to make developer tools not suck
+* Thinking about:
+  * Making complex systems simple  
+  * 0→1 products that actually get used  
+  * Observability & how to make dev tools not suck
 
 ## 📬 Let's chat
 
