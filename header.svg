@@ -61,7 +61,7 @@
   <path d="M0 340 A10 10 0 0 0 10 350 L840 350 A10 10 0 0 0 850 340 L850 320 L0 320 Z" fill="#2d333b" />
   
   <text x="15" y="340" class="ui-text" fill="#c9d1d9">
-    <tspan fill="#27c93f">●</tspan> master* <tspan dx="15">Go 1.21</tspan>
+    <tspan fill="#27c93f">●</tspan> main* <tspan dx="15">Go 1.25</tspan>
     <tspan dx="15">UTF-8</tspan>
   </text>
   
