@@ -26,14 +26,13 @@ Currently scaling **SigNoz** (YC W21) from $1 \to 10$.
 * Top 100 in HackWithInfy among 180k+ participants
 * Won 2 hackathons at my previous company before they asked me to chill
 
-## ⚡ Offline Mode (a.k.a. what lives rent-free in my head)
+## ⚡ Offline Mode
 When I'm not staring at monitors, I am:
 * Trying to reconcile **Vedanta** with **Stoicism**.
 * Reading things that make me question my own opinions
 * Playing **Chess** (badly, but enthusiastically).
 * Thinking about:
-  * Making complex systems simple  
-  * 0→1 products that actually get used  
+  * Making complex systems simple
   * Observability & how to make dev tools not suck
 
 ## 📬 Let's chat
