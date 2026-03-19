@@ -8,32 +8,33 @@
   <img src="https://komarev.com/ghpvc/?username=makeavish&&style=flat-square"/>
 </p>
 
-**TL;DR:** Scaling SigNoz (YC W21) from $1 \to 10$ — obsessed with activation, PLG loops, and making OpenTelemetry approachable.
+**TL;DR:** I work on product, engineering, and growth at **SigNoz**: making observability accessible, OpenTelemetry less intimidating, and developer tools a little less allergic to good UX.
       
 ## ⚙️ $whoami
 
-I'm that weird person who enjoys both shipping code AND talking to users. Started as 1st engineer at [SigNoz](https://github.com/SigNoz), built the backend, then realized I really liked the "why are we building this?" questions. Now I do product full-time but still code when nobody's looking.
+I started as the first backend engineer at [SigNoz](https://github.com/SigNoz), building core systems and making dashboards less offensively slow.
+Somewhere along the way, I got pulled into product and growth because I liked figuring out **what to build**, **why it matters**, and **how to get it into users’ hands** just as much as writing the code.
+These days, I work across engineering, product, and growth, usually somewhere in the messy middle between systems and users.
 
-### 🔭 What I'm actually doing
-Currently scaling **SigNoz** (YC W21) from $1 \to 10$.
-* **Day Job:** obsessing over activation rates, PLG loops, and making OpenTelemetry less scary for the average dev.
-* **Past Life:** I was the first backend engineer at SigNoz. I optimized Trace DB performance by **40x** and page loads by **3x** because slow dashboards hurt my soul.
-* **Before that:** Wrangled services at **OkCredit** handling **500k+ RPM**. I like systems that don't crash under pressure.
+## 🔭 Work
 
-## 🏆 Humble Brags
+- **Now:** working across **product and engineering** at **SigNoz**
+- **Then:** first backend engineer at SigNoz; improved Trace DB performance by **40x** and page loads by **3x**
+- **Earlier:** worked on systems at **OkCredit** handling **500k+ RPM**
 
-* Ranked 179 nationally in ICPC (out of 4441, so top 4%ish)
-* Top 100 in HackWithInfy among 180k+ participants
-* Won 2 hackathons at my previous company before they asked me to chill
+## 🧠 Currently exploring
+
+- AI agents for observability
+- How to make complex systems feel simple
+- Making OpenTelemetry more approachable
+- PLG for developer tools
 
 ## ⚡ Offline Mode
 When I'm not staring at monitors, I am:
+* Reading philosophy, psychology, and things that challenge my assumptions
 * Trying to reconcile **Vedanta** with **Stoicism**.
-* Reading things that make me question my own opinions
 * Playing **Chess** (badly, but enthusiastically).
-* Thinking about:
-  * Making complex systems simple
-  * Observability & how to make dev tools not suck
+* Thinking about product, systems, and why so many dev tools make simple things feel harder than they should
 
 ## 📬 Let's chat
 
@@ -43,4 +44,4 @@ When I'm not staring at monitors, I am:
 
 ---
 
-*Builder by default. Product by responsibility.*
+*Coder at heart. Product by curiosity. Builder throughout.*
