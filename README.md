@@ -14,8 +14,10 @@
 I like building useful things that create positive impact. Ideally things that are technically hard, slightly messy, and valuable enough that people would complain if they disappeared.
 
 At SigNoz, I started as the first backend engineer and helped build the 0→1 product: tracing, SigNoz Cloud, performance improvements, docs, sample apps, user support, and whatever else was politely on fire that week.
+
 Somewhere along the way, I moved closer to product because I enjoyed figuring out **what to build**, **why it matters**, and **how to get it into users' hands** just as much as writing the code.
-These days, I work across product and engineering on **Noz** and **SigNoz MCP** — our agent-native observability layer. The goal is simple: help engineers debug production systems using AI agents that can understand traces, logs, metrics, alerts, dashboards, services, deployments, and code.
+
+These days, I work across product and engineering on **Noz** and **SigNoz MCP**, our agent-native observability layer. The goal is simple: help engineers debug production systems using AI agents that can understand traces, logs, metrics, alerts, dashboards, services, deployments, and code.
 
 In plain English: I want to help engineering teams understand what’s happening in production faster, without jumping between five dashboards just to figure out what broke.
 
