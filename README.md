@@ -16,9 +16,7 @@ I like building useful things that create positive impact. Ideally things that a
 At SigNoz, I started as the first backend engineer and helped build the 0→1 product: tracing, SigNoz Cloud, performance improvements, docs, user support, and whatever else was politely on fire that week.
 Somewhere along the way, I moved closer to product because I enjoyed figuring out **what to build**, **why it matters**, and **how to get it into users' hands** just as much as writing the code.
 
-These days, I work across product and engineering on **Noz**, **SigNoz MCP** and **AI O11y**, our agent-native observability layer. The goal is simple: help engineers debug production systems using AI agents that can understand traces, logs, metrics, alerts, dashboards, services, deployments, and code.
-
-In plain English: I want to help engineering teams understand what’s happening in production faster, without jumping between five dashboards just to figure out what broke.
+These days, I work across product and engineering on **Noz**, **SigNoz MCP** and **AI O11y**, our agent-native observability layer. The goal is simple: help engineers debug production systems using AI agents that can understand traces, logs, metrics, alerts, deployments, and code.
 
 ## Work
 
@@ -44,9 +42,10 @@ When I am AFK, you can find me:
 
 ## Let's chat
 
-- 🌐 [vishal.wtf](https://vishal.wtf) — my corner of the internet
-- 💼 [LinkedIn](https://linkedin.com/in/makeavish) — the professional facade
-- 🕊️ [Twitter](https://twitter.com/makeavish11) - thoughts in 280 chars or less
+- [vishal.wtf](https://vishal.wtf) — my corner of the internet
+- [LinkedIn](https://linkedin.com/in/makeavish) — the professional facade
+- [Twitter](https://twitter.com/makeavish11) - thoughts in 280 chars or less
+- [Goodreads](https://www.goodreads.com/makeavish) - my library
 
 ---
 
