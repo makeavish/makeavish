@@ -29,11 +29,10 @@ In plain English: I want to help engineering teams understand what’s happening
 
 ## Currently exploring
 
-- AI agents for observability
-- MCP and how products can connect better with coding agents
+- AI agents and MCP for observability
+- Monitoring AI agents
 - Making complex systems feel simpler without hiding important details
 - PLG, onboarding, and activation for technical products
-- Making OpenTelemetry more approachable
 
 ## Offline Mode
 When I am AFK, you can find me:
